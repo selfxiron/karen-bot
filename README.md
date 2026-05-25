@@ -2,6 +2,11 @@
 
 An AI-powered Discord bot utilizing the Groq API (LLaMA 3.1) to answer questions and maintain conversational context. Built with Python, this project demonstrates asynchronous task management, local database integration, and cloud deployment.
 
+Link: https://discord.com/oauth2/authorize?client_id=1507976528653189160
+
+## Architecture Diagram
+![karen-bot_architecture_diagram](img/karen-bot_architecture_diagram.png)
+
 ## Features
 
 * **Slash Commands:** Seamless integration with Discord's native UI using the `/ask` command.
